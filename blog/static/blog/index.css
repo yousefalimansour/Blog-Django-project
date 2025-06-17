@@ -58,15 +58,6 @@
     flex: 1;
 }
 
-/* ✅ تعديل مهم: تنسيق صورة البوست */
-.post img {
-    width: 100%;
-    max-height: 20rem;
-    object-fit: cover;
-    border-radius: 12px;
-    display: block;
-}
-
 #about {
     text-align: center;
     padding: 3rem;
